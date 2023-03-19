@@ -1,0 +1,15 @@
+.spacer{
+    flex: 1 1 auto;
+}
+
+.header-nav{
+    display: flex;
+    gap: 2rem;
+}
+
+.header-nav > a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+    font-size: medium;
+}
